@@ -62,7 +62,7 @@ Phone Number: +1-234-567-8901
 
 ## 💡 Flow Structure
 
-![Power Automate Flow Structure]([Email-to-SharePoint_Order_Automation_Flow.png](https://github.com/nandan2003/Email-to-SharePoint-Order-Automation-with-Teams-Notification-Power-Automate/blob/0d503020fe946dbdbcc06c5abcfc0ffc19ac0f46/Email-to-SharePoint%20Order%20Automation%20Flow.png))
+![Power Automate Flow Structure](https://github.com/nandan2003/Email-to-SharePoint-Order-Automation-with-Teams-Notification-Power-Automate/blob/0d503020fe946dbdbcc06c5abcfc0ffc19ac0f46/Email-to-SharePoint%20Order%20Automation%20Flow.png)
 
 ## 🧾 Deployment
 
